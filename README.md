@@ -6,6 +6,5 @@ In this case, container1 weights 36kg (17+19), container2 weights 6kg, and conta
 (container1: item1, item2) (container2: item3, item4, item5) (container3: item6).
 
 this project builds a genetic algorithm solution to optimize this container-loading plan. The code works by asking the user to enter the number of containers (c), the number of items (n), and one of the following options to set the weights of the items:
-
-	Option 1: The weight of item 𝑖 (where 𝑖 starts at 1 and finishes at n) will be  i/2.
-  Option 2: The weight of item 𝑖 (where 𝑖 starts at 1 and finishes at n) will be i^2/2.
+Option 1: The weight of item 𝑖 (where 𝑖 starts at 1 and finishes at n) will be  i/2.
+Option 2: The weight of item 𝑖 (where 𝑖 starts at 1 and finishes at n) will be i^2/2.
