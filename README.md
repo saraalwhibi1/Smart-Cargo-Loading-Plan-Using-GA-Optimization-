@@ -16,6 +16,7 @@ In the beginning, the user is asked to input the number of containers, number of
 for the weight of items which can be either 1 or 2, and insert the population size and mutation 
 operator. Once the values are input, then the chromosomes will be generated then the fitness 
 function will be applied on them.
+
 Fitness Function:
 The weights of items should be distributed evenly between containers. So, the fitness function 
 calculates the difference between biggest total weight and the smallest total weight of containers,
